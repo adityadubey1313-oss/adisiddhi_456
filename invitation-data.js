@@ -1,5 +1,5 @@
 const invitationData = {
-  siteUrl: 'https://adityadubey1313-oss.github.io/adisiddhi_4h/',
+  siteUrl: 'https://adityadubey1313-oss.github.io/adisiddhi_456/',
   eventDate: '2026-12-06',
   primaryHero: 'preview.jpg',
   musicAsset: 'wedding-song.mp3',
@@ -125,7 +125,7 @@ const invitationData = {
       countDownHours: 'Hours',
       countDownMinutes: 'Minutes',
       countDownSeconds: 'Seconds',
-      whatsappShare: 'विवाह निमंत्रण* सिद्धिबाला संग आदित्य_456\nhttps://adityadubey1313-oss.github.io/adisiddhi_4h/'
+      whatsappShare: 'विवाह निमंत्रण* सिद्धिबाला संग आदित्य_456\nhttps://adityadubey1313-oss.github.io/adisiddhi_456/'
     },
     hi: {
       langLabel: 'हि',
@@ -160,7 +160,7 @@ const invitationData = {
       countDownHours: 'घंटे',
       countDownMinutes: 'मिनट',
       countDownSeconds: 'सेकंड',
-      whatsappShare: 'विवाह निमंत्रण* सिद्धिबाला संग आदित्य_456\nhttps://adityadubey1313-oss.github.io/adisiddhi_4h/'
+      whatsappShare: 'विवाह निमंत्रण* सिद्धिबाला संग आदित्य_456\nhttps://adityadubey1313-oss.github.io/adisiddhi_456/'
     }
   },
   venues: {
