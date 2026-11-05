@@ -4,6 +4,7 @@
 
 - Local folder and repository name: `adisiddhi_456`.
 - Origin (fetch and push): `https://github.com/adityadubey1313-oss/adisiddhi_456.git`.
+- Published project path: `/adisiddhi_456/`, not the account's root-site path.
 - Working branch: `main`, tracking `origin/main`.
 - Workspace integration: registered Git submodule at `adisiddhi_456`; Git metadata is managed by the parent, not a copied nested `.git` directory.
 - This is a static HTML/CSS/JavaScript project, with no package manifest, framework homepage setting or Vite base configuration. Its Pages base URL is `siteUrl` in [invitation-data.js](invitation-data.js); HTML metadata uses the same URL and assets remain project-relative.
