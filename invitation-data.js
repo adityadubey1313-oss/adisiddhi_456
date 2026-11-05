@@ -2,7 +2,7 @@ const invitationData = {
   siteUrl: 'https://adityadubey1313-oss.github.io/adisiddhi_456/',
   eventDate: '2026-12-06',
   primaryHero: 'preview.jpg',
-  musicAsset: 'wedding-song1.mp3',
+  musicAsset: 'wedding-song2.mp3',
   couple: {
   "hi": "सिद्धिबाला संग आदित्य"
 },
@@ -177,7 +177,7 @@ const invitationData = {
     },
     "mapsUrl": "https://maps.app.goo.gl/B2gr7KzgUDMbcMzq5",
     "sourceLines": [
-      "कार्यस्थल: `किशोर कुटी‘",
+      "कार्यस्थल: किशोर कुटी",
       "मानस भवन – नगर निगम मार्ग, राइट टाउन, जबलपुर ",
       "दूरभाष : 9425025656, 8989958989, "
     ]
@@ -259,8 +259,7 @@ const invitationData = {
     "end": "14:30",
     "venueId": "hotelGulzar",
     "timeText": "दोपहर १ बजे से २.३०बजे तक ",
-    "programTitle": "।।  वैवाहिक कार्यक्रम ।।",
-    "programPrelude": "ॐ"
+    "programTitle": "।।  वैवाहिक कार्यक्रम ।।"
   },
   {
     "id": "lagun",
