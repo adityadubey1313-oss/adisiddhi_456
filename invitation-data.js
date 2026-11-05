@@ -2,7 +2,7 @@ const invitationData = {
   siteUrl: 'https://adityadubey1313-oss.github.io/adisiddhi_456/',
   eventDate: '2026-12-06',
   primaryHero: 'preview.jpg',
-  musicAsset: 'wedding-song.mp3',
+  musicAsset: 'wedding-song1.mp3',
   couple: {
   "hi": "सिद्धिबाला संग आदित्य"
 },
@@ -30,6 +30,7 @@ const invitationData = {
     "मङ्गलम् भगवान् विष्णु: मङ्गलम् गरुड़ध्वज: ।",
     "मङ्गलम् पुण्डरीकाक्ष: मङ्गलाय तनो हरि:  ।।"
   ],
+  "invocationAfterInvitation": true,
   "invitation": [
     "ॐ",
     "।। निमंत्रण ।। ",
@@ -201,21 +202,6 @@ const invitationData = {
 },
   events: [
   {
-    "id": "magarmati",
-    "title": {
-      "hi": "मागरमाटी, मण्डपाच्छादन, मातृका-पूजन "
-    },
-    "date": "2026-12-03",
-    "day": {
-      "hi": "अगहन कृष्ण दशमी - गुरूवार, दिनांक ३ दिसम्बर, २०२६"
-    },
-    "start": "17:00",
-    "end": "20:00",
-    "venueId": "kishoreKuti",
-    "timeText": "सायंकाल ५ बजे से रात्रि ८ बजे तक ",
-    "programTitle": "।। माङ्गलिक कार्यक्रम ।।"
-  },
-  {
     "id": "khermai",
     "title": {
       "hi": "खेरमाई देवी दर्शन-पूजन"
@@ -259,22 +245,6 @@ const invitationData = {
     "venueId": "hotelGulzar",
     "timeText": "सायंकाल ५ बजे से रात्रि ८ बजे तक [होटल गुलज़ार]",
     "programTitle": "।। माङ्गलिक कार्यक्रम ।।"
-  },
-  {
-    "id": "kul-devta",
-    "title": {
-      "hi": "श्री कुल-देव (बरम-देव) पूजन "
-    },
-    "date": "2026-12-05",
-    "day": {
-      "hi": "अगहन कृष्ण द्वादशी - शनिवार, दिनांक ५ दिसम्बर, २०२६"
-    },
-    "start": "12:00",
-    "end": null,
-    "venueId": "hotelGulzar",
-    "timeText": "दोपहर १२ बजे ",
-    "programTitle": "।।  वैवाहिक कार्यक्रम ।।",
-    "programPrelude": "ॐ"
   },
   {
     "id": "floral-haldi",
