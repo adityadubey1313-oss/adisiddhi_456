@@ -25,14 +25,13 @@ const invitationData = {
   sourceDocument: {
   "filename": "निमन्त्रण पत्र  सम्पूर्ण.docx",
   "invocation": [
-    "ॐ",
-    "।। श्री गणेशाय नम: ।। ",
     "मङ्गलम् भगवान् विष्णु: मङ्गलम् गरुड़ध्वज: ।",
     "मङ्गलम् पुण्डरीकाक्ष: मङ्गलाय तनो हरि:  ।।"
   ],
   "invocationAfterInvitation": true,
   "invitation": [
     "ॐ",
+    "।। श्री गणेशाय नम: ।।",
     "।। निमंत्रण ।। ",
     "विनय निमंत्रण आपको, गौरी पुत्र गणेश ।",
     "मात-भवानी, भास्कर, ब्रह्मा, विष्णु, महेश ।।",
@@ -145,7 +144,7 @@ const invitationData = {
       venueHeading: 'स्थान और दिशा',
       familyHeading: '',
       shareHeading: '',
-      footerText: 'सिद्धिबाला संग आदित्य',
+      footerText: '',
       viewDirections: 'दिशा देखें',
       directionsTo: 'यहाँ जाने का मार्ग देखें:',
       callNow: 'कॉल करें',
@@ -229,21 +228,6 @@ const invitationData = {
     "end": "14:00",
     "venueId": "kishoreKuti",
     "timeText": "दोपहर १२ बजे से २ बजे तक",
-    "programTitle": "।। माङ्गलिक कार्यक्रम ।।"
-  },
-  {
-    "id": "mehendi",
-    "title": {
-      "hi": "वधु की मेहंदी "
-    },
-    "date": "2026-12-04",
-    "day": {
-      "hi": "अगहन कृष्ण एकादशी - शुक्रवार, दिनांक ४ दिसम्बर, २०२६"
-    },
-    "start": "17:00",
-    "end": "20:00",
-    "venueId": "hotelGulzar",
-    "timeText": "सायंकाल ५ बजे से रात्रि ८ बजे तक [होटल गुलज़ार]",
     "programTitle": "।। माङ्गलिक कार्यक्रम ।।"
   },
   {
